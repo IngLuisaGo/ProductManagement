@@ -1,6 +1,6 @@
 # ProductManagement
 
-API REST desarrollada en .NET 8 para la gestión de productos.
+API REST desarrollada en .NET 8 para la gestión de productos e integración con Api externas.
 
 ## Tecnologías utilizadas
 
